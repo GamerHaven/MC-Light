@@ -1,0 +1,29 @@
+{
+  "minecraft": {
+    "version": "1.16.5",
+    "modLoaders": [
+      {
+        "id": "forge-36.1.2",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "GamerHaven Official Light",
+  "version": "1.0.0",
+  "author": "DevilzEye",
+  "files": [
+    {
+      "projectID": 318551,
+      "fileID": 3084325,
+      "required": true
+    },
+    {
+      "projectID": 389222,
+      "fileID": 3172598,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
