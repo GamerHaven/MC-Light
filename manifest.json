@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "GamerHaven Official Light",
-  "version": "1.0.3c",
+  "version": "1.0.1",
   "author": "DevilzEye",
   "files": [
     {
@@ -480,6 +480,11 @@
       "required": true
     },
     {
+      "projectID": 453627,
+      "fileID": 3233201,
+      "required": true
+    },
+    {
       "projectID": 254268,
       "fileID": 3170451,
       "required": true
@@ -552,16 +557,6 @@
     {
       "projectID": 358191,
       "fileID": 3223408,
-      "required": true
-    },
-    {
-      "projectID": 300569,
-      "fileID": 3170831,
-      "required": true
-    },
-    {
-      "projectID": 332522,
-      "fileID": 3170821,
       "required": true
     }
   ],
